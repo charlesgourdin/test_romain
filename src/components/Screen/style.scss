@@ -1,0 +1,15 @@
+.screen {
+  height: 100%;
+  flex: 1 1 auto;
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid {
+  width: 800px;
+  height: 400px;
+  border: 1px black solid;
+  position: relative;
+}
